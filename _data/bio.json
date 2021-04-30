@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Kajal Kumar Das",
+    "label": "Web Developer",
     "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
+    "email": "kajalkrdas452@gmail.com",
+    "phone": "834-053-0508",
+    "website": "https://kajal452.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
-      "countryCode": "USA",
-      "region": "Hawaii"
+      "address": "Ichhar, Purulia",
+      "postalCode": "723145",
+      "city": "Purulia",
+      "countryCode": "IN",
+      "region": "Asia"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kajal452",
+        "url": "http://github.com/kajal452"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "kajalkr452",
+        "url": "http://linkedin.com/in/kajalkr452"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "KajalKumar_88",
+        "url": "http://twitter.com/KajalKumar_88"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "kajalkr7050",
+        "url": "http://instagram.com/kajalkr7050"
       }
     ]
   },
@@ -65,37 +65,38 @@
         "C++",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Php",
+        "React",
+        "React Native",
+        "Android"
       ]
     },
     {
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
-        "MacOS",
         "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Git/GitHub/Bitbucker",
+        "VS Code Editor
+        "Xampp"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "NIMS University ,Jaipur",
+      "area": "Computer Science ",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
+      "startDate": "2014-06-01",
+      "endDate": "2017-12-25",
+      "gpa": "6.6",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
+      "company": "Openweb Solutions ",
       "position": "Web Developer",
       "website": "",
       "startDate": "2015-08-01",
@@ -107,8 +108,8 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
+      "company": "Xigmapro Pvt Ltd",
+      "position": "Web Developer",
       "website": "http://www.hawaii.edu/its/",
       "startDate": "2015-01-01",
       "endDate": "2016-03-15",
@@ -132,20 +133,7 @@
         "Maintain custom data collection and storage infrastructure"
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
+   ],
   "awards": [
     {
       "title": "B+ Scholarship",
